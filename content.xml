@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260521112729JYSENL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260521112729RUKEGW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto de Coeducación</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>CDD B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Antonio Luis del Pino Nieto</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Producto final diseñado para el curso de competencia digital docente B2 de la Consejería de Educación de la Junta de Andalucía</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779354471673</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpf9pl8a-d4av9v0u4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción. Guía didáctica - Proyecto de coeducación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción. Guía didáctica - Proyecto de coeducación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción. Guía didáctica - Proyecto de coeducación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción. Guía didáctica - Proyecto de coeducación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8a-d4av9v0u4</odePageId>
+      <odeBlockId>block-1779268360754-mjj3fn9du</odeBlockId>
+      <blockName>Objetivos del proyecto</blockName>
+      <iconName>udl_sup_interactivo</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8a-d4av9v0u4</odePageId>
+          <odeBlockId>block-1779268360754-mjj3fn9du</odeBlockId>
+          <odeIdeviceId>idevice-1779268360751-axhd2n24s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El propósito del proyecto es capacitar a los estudiantes para analizar, seleccionar y comunicar información especializada (tanto escrita como oral) mediante el uso motivador de las TIC. Con este fin, apostamos por metodologías activas y un entorno de trabajo flexible que trascienda el aula, fomentando la autonomía natural del alumnado de Nivel Intermedio B2.2.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779268360751-axhd2n24s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El propósito del proyecto es capacitar a los estudiantes para analizar, seleccionar y comunicar información especializada (tanto escrita como oral) mediante el uso motivador de las TIC. Con este fin, apostamos por metodologías activas y un entorno de trabajo flexible que trascienda el aula, fomentando la autonomía natural del alumnado de Nivel Intermedio B2.2.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8a-d4av9v0u4</odePageId>
+      <odeBlockId>block-1779268561378-u9c4d1cw6</odeBlockId>
+      <blockName>Guía</blockName>
+      <iconName>udl_rep_escucha</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8a-d4av9v0u4</odePageId>
+          <odeBlockId>block-1779268561378-u9c4d1cw6</odeBlockId>
+          <odeIdeviceId>idevice-1779268561376-sxzvtm16i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/1.svg" title="Coeducation" width="600" height="447" alt="Coeducation. Students" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/vectors/clase-computadora-estudiante-2029206/" class="author" target="_blank" rel="noopener">Imagen de OpenClipart-Vectors en Pixabay</a>. <span class="title"><em>Coeducación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p>¿Eres docente y quieres aplicar este <strong>REA</strong>? Descubre todos los detalles del proyecto en las pestañas de Organización y Evaluación. También tienes a tu disposición una <strong>guía </strong>de uso para facilitarte su implantación en el aula.</p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC" style="width: 900px;">
+<figcaption class="figcaption header"><strong>Guía para el profesorado</strong></figcaption>
+<iframe width="900" height="450" src="{{context_path}}/content/resources/Guia_para_el_profesorado (1) (1).pdf"></iframe>
+<figcaption class="figcaption"><span class="author">Antonio Luis del Pino Nieto</span>. <span class="title"><em>Guía para el profesorado</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC">CC BY-NC</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779268561376-sxzvtm16i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/1.svg\" title=\"Coeducation\" width=\"600\" height=\"447\" alt=\"Coeducation. Students\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/vectors/clase-computadora-estudiante-2029206/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Imagen de OpenClipart-Vectors en Pixabay</a>. <span class=\"title\"><em>Coeducación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p>¿Eres docente y quieres aplicar este <strong>REA</strong>? Descubre todos los detalles del proyecto en las pestañas de Organización y Evaluación. También tienes a tu disposición una <strong>guía </strong>de uso para facilitarte su implantación en el aula.</p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC\" style=\"width: 900px;\">\n<figcaption class=\"figcaption header\"><strong>Guía para el profesorado</strong></figcaption>\n<iframe width=\"900\" height=\"450\" src=\"{{context_path}}/content/resources/Guia_para_el_profesorado (1) (1).pdf\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Antonio Luis del Pino Nieto</span>. <span class=\"title\"><em>Guía para el profesorado</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC\">CC BY-NC</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpf9pl8d-8axkpvpv4</odePageId>
+  <odeParentPageId>page-mpf9pl8a-d4av9v0u4</odeParentPageId>
+  <pageName>Organización</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Organización</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8d-8axkpvpv4</odePageId>
+      <odeBlockId>block-1779269705169-r7wu3b0pf</odeBlockId>
+      <blockName>Organización del proyecto</blockName>
+      <iconName>udl_exp_manipula</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8d-8axkpvpv4</odePageId>
+          <odeBlockId>block-1779269705169-r7wu3b0pf</odeBlockId>
+          <odeIdeviceId>idevice-1779269705167-vf828igix</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 2304px;"><img src="{{context_path}}/content/resources/Mind map.jpg" width="2304" height="995" alt="Mind map of the project" />
+<figcaption class="figcaption"><span class="author">Antonio Luis del Pino Nieto</span>. <span class="title"><em>Organización del proyecto</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779269705167-vf828igix","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 2304px;\"><img src=\"{{context_path}}/content/resources/Mind map.jpg\" width=\"2304\" height=\"995\" alt=\"Mind map of the project\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Antonio Luis del Pino Nieto</span>. <span class=\"title\"><em>Organización del proyecto</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8d-8axkpvpv4</odePageId>
+      <odeBlockId>block-1779269919704-kpqmqc1lb</odeBlockId>
+      <blockName>Fases</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8d-8axkpvpv4</odePageId>
+          <odeBlockId>block-1779269919704-kpqmqc1lb</odeBlockId>
+          <odeIdeviceId>idevice-1779269919703-i1juk6866</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presenta un resumen del proyecto y sus fases.</p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 900px;" id="fig_87b51afh4">
+<figcaption class="figcaption header"><strong>Fases del proyecto</strong></figcaption>
+<iframe width="900" height="450" src="{{context_path}}/content/resources/2.1 Fases del proyecto.pdf"></iframe>
+<figcaption class="figcaption"><span class="author">Antonio Luis del Pino Nieto</span>. <span class="title"><em>Fases</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779269919703-i1juk6866","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presenta un resumen del proyecto y sus fases.</p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 900px;\" id=\"fig_87b51afh4\">\n<figcaption class=\"figcaption header\"><strong>Fases del proyecto</strong></figcaption>\n<iframe width=\"900\" height=\"450\" src=\"{{context_path}}/content/resources/2.1 Fases del proyecto.pdf\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Antonio Luis del Pino Nieto</span>. <span class=\"title\"><em>Fases</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8d-8axkpvpv4</odePageId>
+      <odeBlockId>block-1779270122873-m6vvdanqm</odeBlockId>
+      <blockName>Protección de datos y licencias</blockName>
+      <iconName>udl_sup_reflexion</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8d-8axkpvpv4</odePageId>
+          <odeBlockId>block-1779270122873-m6vvdanqm</odeBlockId>
+          <odeIdeviceId>idevice-1779270122871-azk75rjsg</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;">¿Qué tengo que saber sobre protección de datos personales y garantías de derechos digitales?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Antes de poner en marcha el proyecto, te aconsejo <strong>repasar</strong>&nbsp;los aspectos esenciales sobre <strong>protección de datos personales y garantía de derechos digitales</strong>.</p>
+<p>Para facilitarte esta tarea, comparto la siguiente infografía con pautas básicas que te ayudarán a trabajar en su proyecto con total seguridad y confianza:</p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 900px;">
+<figcaption class="figcaption header"><strong>Infografía sobre seguridad y derechos digitales en línea</strong></figcaption>
+<iframe width="900" height="450" src="{{context_path}}/content/resources/2.2 Infografía Tips Seguridad.pdf"></iframe>
+<figcaption class="figcaption"><span class="author">Antonio Luis del Pino Nieto</span>. <span class="title"><em>Tips seguridad</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpf9pl8e-u39xulqq1</odePageId>
+  <odeParentPageId>page-mpf9pl8a-d4av9v0u4</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8e-u39xulqq1</odePageId>
+      <odeBlockId>block-1779270782480-85kl3cjry</odeBlockId>
+      <blockName>¿Qué vamos a evaluar en este proyecto? ¿Cómo lo vamos a evaluar?</blockName>
+      <iconName>udl_sup_nota</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8e-u39xulqq1</odePageId>
+          <odeBlockId>block-1779270782480-85kl3cjry</odeBlockId>
+          <odeIdeviceId>idevice-1779270782478-k33335227</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 700px;"><img src="{{context_path}}/content/resources/2.jpg" title="Evaluación" width="700" height="504" alt="Feedback" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/vectors/retroalimentaci%c3%b3n-opini%c3%b3n-bien-malo-1311638/" class="author" target="_blank" rel="noopener">Imagen de Pixaline en Pixabay</a>. <span class="title"><em>Icons</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>La evaluación de este proyecto se aborda desde una doble perspectiva:</p>
+<ol>
+<li><strong>Formativa</strong>: Orientada a monitorizar y valorar el proceso de aprendizaje de manera continua y permanente durante todo el desarrollo de las actividades.</li>
+<li><strong>Sumativa</strong>: Dirigida a comprobar el grado de consecución de los objetivos pedagógicos reflejados en el producto final.<br /></li>
+</ol>
+<p>Este proyecto de coeducación se centra en la investigación y posterior exposición, por parte del alumnado, de diversas temáticas vinculadas a la igualdad de género.</p>
+<p>La propuesta culminará al finalizar la unidad con la entrega de un<strong> producto final</strong>. El diseño del proyecto promueve el aprendizaje colaborativo, para lo cual el grupo-clase se estructurará en equipos de dos estudiantes cada uno.</p>
+<p>El desarrollo del proyecto se distribuye en <strong>varias sesiones</strong> y requiere el compromiso del <strong>trabajo autónomo</strong> del alumnado.</p>
+<p>Las sesiones de trabajo se distribuyen de la siguiente manera:</p>
+<ol>
+<li><strong>Sesiones de investigación</strong> (en el aula): Dos clases de dos horas y quince minutos cada una, destinadas a la búsqueda, selección y mediación de la información.</li>
+<li><strong>Sesiones de exposición</strong> (en el aula): Dos clases reservadas para las presentaciones orales de las parejas y la posterior dinamización de un debate.</li>
+<li><strong>Trabajo autónomo</strong> (fuera del aula)</li>
+</ol>
+<p>Cada estudiante debe implicarse de manera individual y coordinada para profundizar en la investigación del tema asignado mediante la búsqueda de material complementario.<br /></p>
+<p>El alumnado deberá crear, diseñar y publicar un producto final en un muro digital colaborativo (Padlet).<br /><br />Para valorar de manera integral el proceso de aprendizaje del alumnado, se emplearán los siguientes recursos:</p>
+<ul>
+<li>Por un lado, se empleará una ficha de reflexión en formato de breve cuestionario, que se distribuirá al finalizar las exposiciones y el debate. Este instrumento permitirá evaluar el grado de satisfacción del alumnado con el trabajo realizado, potenciar sus habilidades, detectar posibles áreas de mejora y promover la autorreflexión sobre el desarrollo de sus competencias clave para futuros proyectos.</li>
+</ul>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 900px;">
+<figcaption class="figcaption header"><strong>Ficha de reflexión</strong></figcaption>
+<iframe width="900" height="450" src="{{context_path}}/content/resources/Reflection sheet.pdf"></iframe>
+<figcaption class="figcaption"><span class="author">Antonio Luis del Pino Nieto</span>. <span class="title"><em>Ficha de reflexión</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<ul>
+<li>Asimismo, el proceso incluye una <strong>rúbrica de evaluación</strong> que se facilitará al alumnado tras la exposición oral para medir el grado de consecución de los objetivos de la tarea final. Dicha rúbrica evaluará específicamente los componentes lingüísticos y estratégicos de la competencia comunicativa oral, analizando el uso de las funciones comunicativas, la pronunciación, la entonación, la organización del discurso y la riqueza y corrección gramatical y léxica.</li>
+</ul>
+<figure class="exe-figure position-center" style="width: 900px;">
+<div class="figcaption header"><strong>Rúbrica de evaluación</strong></div>
+<img src="{{context_path}}/content/resources/Rúbrica de eval. producción oral (8.1.).jpg" width="900" height="636" alt="Rúbrica de evaluación" />
+<figcaption class="figcaption"><span class="author">Antonio Luis del Pino Nieto</span>. <span class="title"><em>Rúbrica de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779270782478-k33335227","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 700px;\"><img src=\"{{context_path}}/content/resources/2.jpg\" title=\"Evaluación\" width=\"700\" height=\"504\" alt=\"Feedback\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/vectors/retroalimentaci%c3%b3n-opini%c3%b3n-bien-malo-1311638/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Imagen de Pixaline en Pixabay</a>. <span class=\"title\"><em>Icons</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>La evaluación de este proyecto se aborda desde una doble perspectiva:</p>\n<ol>\n<li><strong>Formativa</strong>: Orientada a monitorizar y valorar el proceso de aprendizaje de manera continua y permanente durante todo el desarrollo de las actividades.</li>\n<li><strong>Sumativa</strong>: Dirigida a comprobar el grado de consecución de los objetivos pedagógicos reflejados en el producto final.<br /></li>\n</ol>\n<p>Este proyecto de coeducación se centra en la investigación y posterior exposición, por parte del alumnado, de diversas temáticas vinculadas a la igualdad de género.</p>\n<p>La propuesta culminará al finalizar la unidad con la entrega de un<strong> producto final</strong>. El diseño del proyecto promueve el aprendizaje colaborativo, para lo cual el grupo-clase se estructurará en equipos de dos estudiantes cada uno.</p>\n<p>El desarrollo del proyecto se distribuye en <strong>varias sesiones</strong> y requiere el compromiso del <strong>trabajo autónomo</strong> del alumnado.</p>\n<p>Las sesiones de trabajo se distribuyen de la siguiente manera:</p>\n<ol>\n<li><strong>Sesiones de investigación</strong> (en el aula): Dos clases de dos horas y quince minutos cada una, destinadas a la búsqueda, selección y mediación de la información.</li>\n<li><strong>Sesiones de exposición</strong> (en el aula): Dos clases reservadas para las presentaciones orales de las parejas y la posterior dinamización de un debate.</li>\n<li><strong>Trabajo autónomo</strong> (fuera del aula)</li>\n</ol>\n<p>Cada estudiante debe implicarse de manera individual y coordinada para profundizar en la investigación del tema asignado mediante la búsqueda de material complementario.<br /></p>\n<p>El alumnado deberá crear, diseñar y publicar un producto final en un muro digital colaborativo (Padlet).<br /><br />Para valorar de manera integral el proceso de aprendizaje del alumnado, se emplearán los siguientes recursos:</p>\n<ul>\n<li>Por un lado, se empleará una ficha de reflexión en formato de breve cuestionario, que se distribuirá al finalizar las exposiciones y el debate. Este instrumento permitirá evaluar el grado de satisfacción del alumnado con el trabajo realizado, potenciar sus habilidades, detectar posibles áreas de mejora y promover la autorreflexión sobre el desarrollo de sus competencias clave para futuros proyectos.</li>\n</ul>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 900px;\">\n<figcaption class=\"figcaption header\"><strong>Ficha de reflexión</strong></figcaption>\n<iframe width=\"900\" height=\"450\" src=\"{{context_path}}/content/resources/Reflection sheet.pdf\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Antonio Luis del Pino Nieto</span>. <span class=\"title\"><em>Ficha de reflexión</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<ul>\n<li>Asimismo, el proceso incluye una <strong>rúbrica de evaluación</strong> que se facilitará al alumnado tras la exposición oral para medir el grado de consecución de los objetivos de la tarea final. Dicha rúbrica evaluará específicamente los componentes lingüísticos y estratégicos de la competencia comunicativa oral, analizando el uso de las funciones comunicativas, la pronunciación, la entonación, la organización del discurso y la riqueza y corrección gramatical y léxica.</li>\n</ul>\n<figure class=\"exe-figure position-center\" style=\"width: 900px;\">\n<div class=\"figcaption header\"><strong>Rúbrica de evaluación</strong></div>\n<img src=\"{{context_path}}/content/resources/Rúbrica de eval. producción oral (8.1.).jpg\" width=\"900\" height=\"636\" alt=\"Rúbrica de evaluación\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Antonio Luis del Pino Nieto</span>. <span class=\"title\"><em>Rúbrica de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpf9pl8f-po0d0uxi6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Desarrollo del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desarrollo del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desarrollo del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8f-po0d0uxi6</odePageId>
+      <odeBlockId>block-1779347593606-hlqkzan20</odeBlockId>
+      <blockName>Lead-in</blockName>
+      <iconName>udl_eng_reto</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8f-po0d0uxi6</odePageId>
+          <odeBlockId>block-1779347593606-hlqkzan20</odeBlockId>
+          <odeIdeviceId>idevice-1779347593603-1ebvfwfej</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Welcome, everyone! </strong></p>
+<p>Let’s dive into this exciting project! This is your chance to deepen your understanding of coeducation and explore the current status of women across different spheres (politics, public spaces, the professional world, and more).</p>
+<p>Follow the guidelines, do your research, and... best of luck!</p>
+<figure class="exe-figure position-center" style="width: 1000px;"><img src="{{context_path}}/content/resources/kreatikar-social-3408791.jpg" width="1000" height="667" alt="Lead-in. Ideas" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/social-medios-de-comunicaci%c3%b3n-3408791/" class="author" target="_blank" rel="noopener">Imagen de Kreatikar en Pixabay</a>. <span class="title"><em>Ideas</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779347593603-1ebvfwfej","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Welcome, everyone! </strong></p>\n<p>Let’s dive into this exciting project! This is your chance to deepen your understanding of coeducation and explore the current status of women across different spheres (politics, public spaces, the professional world, and more).</p>\n<p>Follow the guidelines, do your research, and... best of luck!</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1000px;\"><img src=\"{{context_path}}/content/resources/kreatikar-social-3408791.jpg\" width=\"1000\" height=\"667\" alt=\"Lead-in. Ideas\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/social-medios-de-comunicaci%c3%b3n-3408791/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Imagen de Kreatikar en Pixabay</a>. <span class=\"title\"><em>Ideas</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpf9pl8f-5jxkw6109</odePageId>
+  <odeParentPageId>page-mpf9pl8f-po0d0uxi6</odeParentPageId>
+  <pageName>Task 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Task 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Task 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8f-5jxkw6109</odePageId>
+      <odeBlockId>block-1779348061148-t2jblqr8u</odeBlockId>
+      <blockName>Instructions</blockName>
+      <iconName>udl_sup_destacado</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8f-5jxkw6109</odePageId>
+          <odeBlockId>block-1779348061148-t2jblqr8u</odeBlockId>
+          <odeIdeviceId>idevice-1779348061146-c126rdimm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>The class has been divided into <strong>THREE working groups</strong>. Each pair will specialize in a specific area.</p>
+<ul>
+<li>GROUP 1: Women in public spaces</li>
+<li>GROUP 2: Gender stereotypes</li>
+<li>GROUP 3: Harassment in all its forms</li>
+</ul>
+<p>In this first task, you are asked to work on the material corresponding to your specific area.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779348061146-c126rdimm","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>The class has been divided into <strong>THREE working groups</strong>. Each pair will specialize in a specific area.</p>\n<ul>\n<li>GROUP 1: Women in public spaces</li>\n<li>GROUP 2: Gender stereotypes</li>\n<li>GROUP 3: Harassment in all its forms</li>\n</ul>\n<p>In this first task, you are asked to work on the material corresponding to your specific area.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8f-5jxkw6109</odePageId>
+      <odeBlockId>block-1779348235869-hlik2dve8</odeBlockId>
+      <blockName>Task 1</blockName>
+      <iconName>udl_sup_adjunto</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8f-5jxkw6109</odePageId>
+          <odeBlockId>block-1779348235869-hlik2dve8</odeBlockId>
+          <odeIdeviceId>idevice-1779348235866-khvd2ox87</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure" style="width: 600px;"><img src="{{context_path}}/content/resources/1.jpg" title="Detective" width="600" height="382" alt="Detective" />
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/detective-british-detective-misterio-4088742/" class="author" target="_blank" rel="noopener">Imagen de LisetteBrodey en Pixabay</a>. <span class="title"><em>Mystery</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<h2><strong>Your turn!</strong></h2>
+<ul>
+<li>Working independently, access your group's material by clicking on the link below. Take notes and begin to summarize the information.</li>
+</ul>
+<h4 style="text-align: center;"><a href="https://padlet.com/apinnie052_/project-unit-5-xwstpl3lf8sovn7n" title="Padlet - Materials for the groups" target="_blank" rel="noopener">Padlet - Materials for the groups</a></h4>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/xwstpl3lf8sovn7n" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+</div>
+<p>Antonio Luis del Pino Nieto. <em title="">Materials for the project</em> (<a href="http://creativecommons.org/licenses/" target="_blank" rel="noopener">CC BY-NC-SA</a>)</p>
+<ul>
+<li>Search for additional material related to your area of work and share it with your partners to decide what to keep and what can be discarded. To search for material related to your topic, you can use the tools provided below.</li>
+</ul>
+<h3 style="text-align: center;"><a href="https://www.symbaloo.com/shared/AAAAA11RlqcAA41_WqK4Hw==" target="_blank" rel="noopener" title="">Research tools</a></h3>
+<p><br /></p>
+<figure class="exe-figure" style="width: 1000px; text-align: center;"><img src="{{context_path}}/content/resources/2.png" width="1000" height="532" alt="Research tools" style="display: block; margin-left: auto; margin-right: auto;" />
+<figcaption class="figcaption"><span class="author">Antonio Luis del Pino Nieto</span>. <span class="title"><em>Research tools</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Please, <strong>do not hesitate</strong> to ask your teacher if you have any questions.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779348235866-khvd2ox87","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/1.jpg\" title=\"Detective\" width=\"600\" height=\"382\" alt=\"Detective\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/detective-british-detective-misterio-4088742/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Imagen de LisetteBrodey en Pixabay</a>. <span class=\"title\"><em>Mystery</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<h2><strong>Your turn!</strong></h2>\n<ul>\n<li>Working independently, access your group's material by clicking on the link below. Take notes and begin to summarize the information.</li>\n</ul>\n<h4 style=\"text-align: center;\"><a href=\"https://padlet.com/apinnie052_/project-unit-5-xwstpl3lf8sovn7n\" title=\"Padlet - Materials for the groups\" target=\"_blank\" rel=\"noopener\">Padlet - Materials for the groups</a></h4>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/xwstpl3lf8sovn7n\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n</div>\n<p>Antonio Luis del Pino Nieto. <em title=\"\">Materials for the project</em> (<a href=\"http://creativecommons.org/licenses/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a>)</p>\n<ul>\n<li>Search for additional material related to your area of work and share it with your partners to decide what to keep and what can be discarded. To search for material related to your topic, you can use the tools provided below.</li>\n</ul>\n<h3 style=\"text-align: center;\"><a href=\"https://www.symbaloo.com/shared/AAAAA11RlqcAA41_WqK4Hw==\" target=\"_blank\" rel=\"noopener\" title=\"\">Research tools</a></h3>\n<p><br /></p>\n<figure class=\"exe-figure\" style=\"width: 1000px; text-align: center;\"><img src=\"{{context_path}}/content/resources/2.png\" width=\"1000\" height=\"532\" alt=\"Research tools\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Antonio Luis del Pino Nieto</span>. <span class=\"title\"><em>Research tools</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Please, <strong>do not hesitate</strong> to ask your teacher if you have any questions.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpf9pl8g-emet9jm1y</odePageId>
+  <odeParentPageId>page-mpf9pl8f-po0d0uxi6</odeParentPageId>
+  <pageName>Task 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Task 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Task 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8g-emet9jm1y</odePageId>
+      <odeBlockId>block-1779349708377-zl57is6u4</odeBlockId>
+      <blockName>Instructions</blockName>
+      <iconName>udl_exp_grupoheterogeneo</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8g-emet9jm1y</odePageId>
+          <odeBlockId>block-1779349708377-zl57is6u4</odeBlockId>
+          <odeIdeviceId>idevice-1779349708376-k5s2urcjq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this second task, you will need to:</p>
+<ul>
+<li>Extract the essential information from the material you have worked on and begin creating the outline/guide that you will use during the presentation of your final product (oral presentation).</li>
+<li>Organize the information to publish it on the collaborative Padlet created for this purpose.</li>
+</ul>
+<p>To help you better summarize the ideas, I recommend watching the video below:</p>
+<figure class="exe-figure exe-media position-center license-custom" style="width: 600px;"><iframe width="600" height="300" src="https://www.youtube.com/embed/7dEGoJdb6O0?t=46s&pp=ygUfc3RlcHMgdG8gc3ludGhlc2l6ZSBpbmZvcm1hdGlvbg" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">LearnFree</span>. <span class="title"><em>Synthesizing Information</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms"><span class="custom-license" title="">Licencia estándar de YouTube</span></a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779349708376-k5s2urcjq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this second task, you will need to:</p>\n<ul>\n<li>Extract the essential information from the material you have worked on and begin creating the outline/guide that you will use during the presentation of your final product (oral presentation).</li>\n<li>Organize the information to publish it on the collaborative Padlet created for this purpose.</li>\n</ul>\n<p>To help you better summarize the ideas, I recommend watching the video below:</p>\n<figure class=\"exe-figure exe-media position-center license-custom\" style=\"width: 600px;\"><iframe width=\"600\" height=\"300\" src=\"https://www.youtube.com/embed/7dEGoJdb6O0?t=46s&pp=ygUfc3RlcHMgdG8gc3ludGhlc2l6ZSBpbmZvcm1hdGlvbg\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">LearnFree</span>. <span class=\"title\"><em>Synthesizing Information</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\"><span class=\"custom-license\" title=\"\">Licencia estándar de YouTube</span></a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpf9pl8g-a8g9bymy8</odePageId>
+  <odeParentPageId>page-mpf9pl8f-po0d0uxi6</odeParentPageId>
+  <pageName>Task 3</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Task 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Task 3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8g-a8g9bymy8</odePageId>
+      <odeBlockId>block-1779350165801-83q40o8kq</odeBlockId>
+      <blockName>Instructions</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8g-a8g9bymy8</odePageId>
+          <odeBlockId>block-1779350165801-83q40o8kq</odeBlockId>
+          <odeIdeviceId>idevice-1779350165800-opxd937fm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>In this third task of the project, you are asked to <strong title="">create the summary material </strong>of your research and publish it on <a href="https://padlet.com/" target="_blank" rel="noopener">PADLET</a>.</p>
+<p>You can publish images, texts, videos edited by yourselves, etc. Be creative!</p>
+<p>Below, you can view a <strong>tutorial </strong>to learn how to post on Padlet:</p>
+<figure class="exe-figure exe-media position-center license-custom" style="width: 600px;"><iframe width="600" height="300" src="https://www.youtube.com/embed/KmJY4j_F8Xc?time_continue=0" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">New EdTech Classroom Student Tutorials</span>. <span class="title"><em>How to Use Padlet for Students: The Basics</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms"><span class="custom-license" title="">Licencia estándar de YouTube</span></a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><strong>Do not hesitate</strong> to ask your teacher if you have any questions.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779350165800-opxd937fm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>In this third task of the project, you are asked to <strong title=\"\">create the summary material </strong>of your research and publish it on <a href=\"https://padlet.com/\" target=\"_blank\" rel=\"noopener\">PADLET</a>.</p>\n<p>You can publish images, texts, videos edited by yourselves, etc. Be creative!</p>\n<p>Below, you can view a <strong>tutorial </strong>to learn how to post on Padlet:</p>\n<figure class=\"exe-figure exe-media position-center license-custom\" style=\"width: 600px;\"><iframe width=\"600\" height=\"300\" src=\"https://www.youtube.com/embed/KmJY4j_F8Xc?time_continue=0\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">New EdTech Classroom Student Tutorials</span>. <span class=\"title\"><em>How to Use Padlet for Students: The Basics</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\"><span class=\"custom-license\" title=\"\">Licencia estándar de YouTube</span></a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><strong>Do not hesitate</strong> to ask your teacher if you have any questions.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpf9pl8h-cdkmlldvd</odePageId>
+  <odeParentPageId>page-mpf9pl8f-po0d0uxi6</odeParentPageId>
+  <pageName>Final sessions of the unit</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Final sessions of the unit</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Final sessions of the unit</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8h-cdkmlldvd</odePageId>
+      <odeBlockId>block-1779350419617-8d2s2u3wh</odeBlockId>
+      <blockName>Final product</blockName>
+      <iconName>udl_rep_lecturafacil</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8h-cdkmlldvd</odePageId>
+          <odeBlockId>block-1779350419617-8d2s2u3wh</odeBlockId>
+          <odeIdeviceId>idevice-1779350419616-czqmlpzra</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>You have finally reached the end of the project!</p>
+<p>Let’s recap the steps we followed:</p>
+<ol>
+<li><strong>Analysis </strong>of the material corresponding to your area of work (group 1, 2, or 3) and <strong>search </strong>for additional material.</li>
+<li><strong>Summary and organization</strong> of the essential information.</li>
+<li>Creation of an <strong>outline/guide</strong> to start preparing the final product (oral presentation).</li>
+<li><strong>Publication </strong>of the summary material on the class's collaborative Padlet (free format, to be chosen by the students).</li>
+<li><strong>Oral presentation</strong> of the work in class, followed by a debate.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779350419616-czqmlpzra","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>You have finally reached the end of the project!</p>\n<p>Let’s recap the steps we followed:</p>\n<ol>\n<li><strong>Analysis </strong>of the material corresponding to your area of work (group 1, 2, or 3) and <strong>search </strong>for additional material.</li>\n<li><strong>Summary and organization</strong> of the essential information.</li>\n<li>Creation of an <strong>outline/guide</strong> to start preparing the final product (oral presentation).</li>\n<li><strong>Publication </strong>of the summary material on the class's collaborative Padlet (free format, to be chosen by the students).</li>\n<li><strong>Oral presentation</strong> of the work in class, followed by a debate.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8h-cdkmlldvd</odePageId>
+      <odeBlockId>block-1779350513930-7ercjlkar</odeBlockId>
+      <blockName>Assessment and evluation</blockName>
+      <iconName>udl_rep_redessemanticas</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8h-cdkmlldvd</odePageId>
+          <odeBlockId>block-1779350513930-7ercjlkar</odeBlockId>
+          <odeIdeviceId>idevice-1779350513928-sidgoztx4</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-1"><h2 style="display:none;">How will this project be evaluated?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Now that you are going to present your final product in class, <strong>fill out this sheet to reflect</strong> on the usefulness of the project and your skills to successfully complete the different proposed activities.</p>
+<p><br></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 900px;"><iframe width="900" height="450" src="{{context_path}}/content/resources/Reflection sheet.pdf"></iframe>
+<figcaption class="figcaption"><span class="author">Antonio Luis del Pino Nieto</span>. <span class="title"><em>Reflection sheet</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpf9pl8h-kmwt2ht5i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpf9pl8h-kmwt2ht5i</odePageId>
+      <odeBlockId>block-1779352238895-l9d6o7r33</odeBlockId>
+      <blockName>Descargar el fichero fuente</blockName>
+      <iconName>udl_sup_reproduccion</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpf9pl8h-kmwt2ht5i</odePageId>
+          <odeBlockId>block-1779352238895-l9d6o7r33</odeBlockId>
+          <odeIdeviceId>idevice-1779352238893-vw8uwlcwc</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Proyecto de Coeducación</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Producto final diseñado para el curso de competencia digital docente B2 de la Consejería de Educación de la Junta de Andalucía</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Antonio Luis del Pino Nieto</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license"><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
